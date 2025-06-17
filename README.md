@@ -25,7 +25,6 @@ Besides cybersecurity, I also enjoy designing and developing modern web applicat
 _Bachelor of Information Security (Year 3)_  
 📍 Thủ Đức, TP.HCM  
 ⏳ 2022 - Present  
-- GPA: 3.42/4  
 
 **Trường THPT Lệ Thủy**  
 📚 High School Diploma | Graduated: 2022  
