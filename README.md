@@ -12,7 +12,7 @@ Penetration Testing | Web Security | Software Engineering
 
 ## 👩‍💻 About Me
 
-Hello! I’m a third-year student at the Posts and Telecommunications Institute of Technology (PTIT HCM),  
+Hello! I’m studying at the Posts and Telecommunications Institute of Technology (PTIT HCM),  
 with a strong passion for cybersecurity and web development.
 
 I’m actively building my skills in web application security, CTF, vulnerability research, and secure coding.  
