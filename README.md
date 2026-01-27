@@ -23,7 +23,7 @@ Besides cybersecurity, I also enjoy designing and developing modern web applicat
 ## 🎓 Education
 
 **[Học viện Công nghệ Bưu chính Viễn thông cơ sở TP.HCM (PTITHCM)](https://ptithcm.edu.vn/)**  
-_Bachelor of Information Security (Year 3)_  
+_Bachelor of Information Security (Year 4)_  
 📍 Thủ Đức, TP.HCM  
 ⏳ 2022 - Present  
 
