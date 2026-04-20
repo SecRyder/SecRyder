@@ -1,87 +1,54 @@
-# SecRyder-
-# Trần Thị Ánh Nguyệt 🌚
+Trần Thị Ánh Nguyệt 🌚
+DevOps | Cloud | Cybersecurity | Software Engineering
 
+https://www.linkedin.com/in/tr%E1%BA%A7n-th%E1%BB%8B-%C3%A1nh-nguy%E1%BB%87t-735348283/  
+mailto:tranthianhnguyet259@gmail.com  
+https://www.facebook.com/share/1EvwGWY36K/
 
-Penetration Testing | Web Security | Software Engineering
+👩‍💻 About Me
+I am a 4th-year Information Security student at the Posts and Telecommunications Institute of Technology (PTIT HCM), passionate about DevOps, Cloud Computing, and Cybersecurity.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/tr%E1%BA%A7n-th%E1%BB%8B-%C3%A1nh-nguy%E1%BB%87t-735348283/)
-[![Gmail](https://img.shields.io/badge/Email-red?logo=gmail)](mailto:tranthianhnguyet259@gmail.com)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/share/1EvwGWY36K/)
+I focus on:
+Building and securing cloud infrastructure (GCP, Terraform, Git Action)
+Web application security and penetration testing (XSS, SQL Injection, WAF bypass)
+Full-stack development with modern frameworks
+Applying secure coding practices to real-world projects
 
----
+🎓 Education
+Posts and Telecommunications Institute of Technology (PTIT HCM)  
+Bachelor in Information Security (Year 4)  
+📍 Thủ Đức, Ho Chi Minh City
+⏳ 2022 – 2027
+Current GPA: 3.46
 
-## About Me
+Lệ Thủy High School  
+📚 High School Diploma | Graduated: 2022
 
-Hello! I’m studying at the Posts and Telecommunications Institute of Technology (PTIT HCM),  
-with a strong passion for cybersecurity and web development.
+🏆 Projects & Experience
+- Bypass WAF (Web Application Firewall)  
+Simulated SQL Injection & XSS attacks, analyzed WAF mechanisms, proposed countermeasures.
+Tools: Burp Suite, SQLMap, ModSecurity
 
-I’m actively building my skills in web application security, CTF, vulnerability research, and secure coding.  
-Besides cybersecurity, I also enjoy designing and developing modern web applications.
+- Laptop & Accessories E-commerce Website (Next.js)  
+Developed backend/frontend, integrated MoMo e-wallet payment, built user account management.
 
----
+- Network Security Configuration on GCP  
+Designed CI/CD pipeline, created VPC, configured firewall & servers, applied load balancing, automated deployment with Terraform + Git Action.
 
-## Education
+🛠️ Skills
+Programming: Java, C++, Python, JavaScript
+Databases: SQL Server, MySQL
+Cloud & DevOps: Google Cloud Platform (GCP), Terraform, Git Action
+Security Tools: Burp Suite, OWASP ZAP, Nmap, Wireshark, Kali Linux
+Cryptography: DES, AES, Stream Cipher
 
-**[Học viện Công nghệ Bưu chính Viễn thông cơ sở TP.HCM (PTITHCM)](https://ptithcm.edu.vn/)**  
-_Bachelor of Information Security (Year 4)_  
-📍 Thủ Đức, TP.HCM  
-⏳ 2022 - Present  
+🎖️ Honors & Awards
+Academic Excellence Scholarship (Years 1, 2, 3)
 
-**Trường THPT Lệ Thủy**  
-📚 High School Diploma | Graduated: 2022  
+🎯 Career Objectives
+To apply my knowledge in DevOps, Cloud, and Cybersecurity, combining secure infrastructure deployment with software engineering practices. My long-term goal is to become a DevSecOps Engineer, contributing to building resilient and secure systems.
 
----
-
-## 🏆 Experience & Achievements
-
-**Cybersecurity & Development Activities**
-- **Security Research**: Discovering and analyzing web vulnerabilities (e.g., XSS, SQLi)
-- **Open-source Projects**: Contributions to security-focused and web development repositories
-- **Web Development**: Building secure and functional websites using PHP, JavaScript, and modern tools
-- Activities: Participated in **ICPC programming contest** (school-level)  
-- Honors: Recognized as **Outstanding Youth Union Member**
-
-**Key Skills**
-- Web vulnerability testing (OWASP Top 10)
-- Logical thinking, problem solving
-- Web application development & debugging
-- Technical documentation and write-ups
-- Frontend/backend programming
-
----
-
-## Security Tools & Frameworks
-
-| Category             | Tools                                 |
-|----------------------|----------------------------------------|
-| Web Security         | Burp Suite, OWASP ZAP                  |
-| Network Security     | Wireshark, Nmap                        |             
-| Operating Systems    | Kali Linux, Ubuntu                     |
-
----
-
-## Technical Stack
-
-### Security Testing
-`Burp Suite` `OWASP ZAP` `Nmap` `Metasploit` `Kali Linux`
-
-### Programming
-`C++` `Python` `JavaScript` `Java`
-
----
-
-## Career Objectives
-
-- Apply knowledge in web penetration testing and secure software engineering  
-- Combine cybersecurity and web development for full-stack secure applications  
-
----
-
-## Let's Connect!
-
-I’m always open to discussing cybersecurity trends, programming projects, or internship opportunities.
-
+📬 Let’s Connect
 📧 Email: [tranthianhnguyet259@gmail.com](mailto:tranthianhnguyet259@gmail.com)  
 💼 LinkedIn: [Trần Thị Ánh Nguyệt](https://www.linkedin.com/in/tr%E1%BA%A7n-th%E1%BB%8B-%C3%A1nh-nguy%E1%BB%87t-735348283/)  
 📘 Facebook: [Facebook Profile](https://www.facebook.com/share/1EvwGWY36K/)  
-📌 Status: _Looking for internships in cybersecurity, secure web development, or software engineering_
