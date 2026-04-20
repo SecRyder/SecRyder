@@ -10,7 +10,7 @@ Penetration Testing | Web Security | Software Engineering
 
 ---
 
-## 👩‍💻 About Me
+## About Me
 
 Hello! I’m studying at the Posts and Telecommunications Institute of Technology (PTIT HCM),  
 with a strong passion for cybersecurity and web development.
@@ -20,7 +20,7 @@ Besides cybersecurity, I also enjoy designing and developing modern web applicat
 
 ---
 
-## 🎓 Education
+## Education
 
 **[Học viện Công nghệ Bưu chính Viễn thông cơ sở TP.HCM (PTITHCM)](https://ptithcm.edu.vn/)**  
 _Bachelor of Information Security (Year 4)_  
@@ -35,22 +35,22 @@ _Bachelor of Information Security (Year 4)_
 ## 🏆 Experience & Achievements
 
 **Cybersecurity & Development Activities**
-- ✅ **Security Research**: Discovering and analyzing web vulnerabilities (e.g., XSS, SQLi)
-- ✅ **Open-source Projects**: Contributions to security-focused and web development repositories
-- ✅ **Web Development**: Building secure and functional websites using PHP, JavaScript, and modern tools
+- **Security Research**: Discovering and analyzing web vulnerabilities (e.g., XSS, SQLi)
+- **Open-source Projects**: Contributions to security-focused and web development repositories
+- **Web Development**: Building secure and functional websites using PHP, JavaScript, and modern tools
 - Activities: Participated in **ICPC programming contest** (school-level)  
 - Honors: Recognized as **Outstanding Youth Union Member**
 
 **Key Skills**
-- 🔒 Web vulnerability testing (OWASP Top 10)
-- 🧠 Logical thinking, problem solving
-- 🛠 Web application development & debugging
-- 📚 Technical documentation and write-ups
-- 🌐 Frontend/backend programming
+- Web vulnerability testing (OWASP Top 10)
+- Logical thinking, problem solving
+- Web application development & debugging
+- Technical documentation and write-ups
+- Frontend/backend programming
 
 ---
 
-## 🧰 Security Tools & Frameworks
+## Security Tools & Frameworks
 
 | Category             | Tools                                 |
 |----------------------|----------------------------------------|
@@ -60,24 +60,24 @@ _Bachelor of Information Security (Year 4)_
 
 ---
 
-## 💻 Technical Stack
+## Technical Stack
 
-### 🔐 Security Testing
+### Security Testing
 `Burp Suite` `OWASP ZAP` `Nmap` `Metasploit` `Kali Linux`
 
-### 💻 Programming
-`C++` `Python` `JavaScript` `PHP` `Java`
+### Programming
+`C++` `Python` `JavaScript` `Java`
 
 ---
 
-## 🎯 Career Objectives
+## Career Objectives
 
 - Apply knowledge in web penetration testing and secure software engineering  
 - Combine cybersecurity and web development for full-stack secure applications  
 
 ---
 
-## 🤝 Let's Connect!
+## Let's Connect!
 
 I’m always open to discussing cybersecurity trends, programming projects, or internship opportunities.
 
