@@ -243,11 +243,11 @@ To become a DevSecOps Engineer specializing in secure cloud infrastructure, auto
   </a>
 </p>
 ---
+
+<div align="center">
 📧 Email: [tranthianhnguyet259@gmail.com](mailto:tranthianhnguyet259@gmail.com)
 💼 LinkedIn: [Trần Thị Ánh Nguyệt](https://www.linkedin.com/in/tr%E1%BA%A7n-th%E1%BB%8B-%C3%A1nh-nguy%E1%BB%87t-735348283/) 
 📘 Facebook: [Facebook Profile](https://www.facebook.com/share/1EvwGWY36K/)
-<div align="center">
-
 
 ### ⭐ Focused on continuous learning in DevOps, Cloud Computing, and Cybersecurity
 
