@@ -242,10 +242,10 @@ To become a DevSecOps Engineer specializing in secure cloud infrastructure, auto
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
 </p>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/tr%E1%BA%A7n-th%E1%BB%8B-%C3%A1nh-nguy%E1%BB%87t-735348283/) [![Gmail](https://img.shields.io/badge/Email-red?logo=gmail)](mailto:tranthianhnguyet259@gmail.com) [![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/share/1EvwGWY36K/) sua lai cho dung email, link, fb: [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/tr%E1%BA%A7n-th%E1%BB%8B-%C3%A1nh-nguy%E1%BB%87t-735348283/) [![Gmail](https://img.shields.io/badge/Email-red?logo=gmail)](mailto:tranthianhnguyet259@gmail.com) [![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/share/1EvwGWY36K/)
 ---
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/tr%E1%BA%A7n-th%E1%BB%8B-%C3%A1nh-nguy%E1%BB%87t-735348283/) [![Gmail](https://img.shields.io/badge/Email-red?logo=gmail)](mailto:tranthianhnguyet259@gmail.com) [![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/share/1EvwGWY36K/)
 <div align="center">
+
 
 ### ⭐ Focused on continuous learning in DevOps, Cloud Computing, and Cybersecurity
 
