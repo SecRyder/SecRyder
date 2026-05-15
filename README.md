@@ -4,7 +4,7 @@
 
 ### DevOps • Cloud • Cybersecurity • Software Engineering
 
-<p>
+<p align="center">
   <a href="mailto:tranthianhnguyet259@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
@@ -15,6 +15,10 @@
 
   <a href="https://github.com/AnMunSR">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+  <a href="https://www.facebook.com/share/1EvwGWY36K/">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
 </p>
 
@@ -232,6 +236,10 @@ To become a DevSecOps Engineer specializing in secure cloud infrastructure, auto
 
   <a href="https://github.com/AnMunSR">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+  <a href="https://www.facebook.com/share/1EvwGWY36K/">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
 </p>
 
