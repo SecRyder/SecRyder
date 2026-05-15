@@ -244,18 +244,11 @@ To become a DevSecOps Engineer specializing in secure cloud infrastructure, auto
 </p>
 <div align="center">
   
-📧 Email: [tranthianhnguyet259@gmail.com]
-  (mailto:tranthianhnguyet259@gmail.com)
-💼 LinkedIn: [Trần Thị Ánh Nguyệt]
-  (https://www.linkedin.com/in/tr%E1%BA%A7n-th%E1%BB%8B-%C3%A1nh-nguy%E1%BB%87t-735348283/) 
-📘 Facebook: [Facebook Profile]
-  (https://www.facebook.com/share/1EvwGWY36K/)
-  
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tranthianhnguyet259@gmail.com)
+📧 Email: [tranthianhnguyet259@gmail.com](mailto:tranthianhnguyet259@gmail.com)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tr%E1%BA%A7n-th%E1%BB%8B-%C3%A1nh-nguy%E1%BB%87t-735348283/)
+💼 LinkedIn: [Trần Thị Ánh Nguyệt](https://www.linkedin.com/in/tr%E1%BA%A7n-th%E1%BB%8B-%C3%A1nh-nguy%E1%BB%87t-735348283/)
 
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/1EvwGWY36K/)
+📘 Facebook: [Facebook Profile](https://www.facebook.com/share/1EvwGWY36K/)
 
 ### ⭐ Focused on continuous learning in DevOps, Cloud Computing, and Cybersecurity
 
