@@ -2,7 +2,7 @@
 
 # Trần Thị Ánh Nguyệt 🌚
 
-### DevOps • Cloud • Cybersecurity • Software Engineering
+### DevOps • Cloud • Cybersecurity • Software Engineering • Compliance
 
 <p align="center">
   <a href="mailto:tranthianhnguyet259@gmail.com">
@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
-  <a href="https://github.com/AnMunSR">
+  <a href="https://github.com/SecRyder">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 
@@ -47,7 +47,7 @@ Currently focusing on cloud deployment, CI/CD automation, infrastructure securit
 - Bachelor of Information Security
 - 📍 Ho Chi Minh City, Vietnam
 - 📅 2022 – 2027
-- 📈 GPA: **3.46 / 4.0**
+- 📈 GPA: **3.52 / 4.0**
 
 ---
 
