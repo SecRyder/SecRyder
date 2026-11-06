@@ -47,7 +47,7 @@ Currently focusing on cloud deployment, CI/CD automation, infrastructure securit
 - Bachelor of Information Security
 - 📍 Ho Chi Minh City, Vietnam
 - 📅 2022 – 2027
-- 📈 GPA: **3.52 / 4.0**
+- 📈 GPA: **3.59 / 4.0**
 
 ---
 
